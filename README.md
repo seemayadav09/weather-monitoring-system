@@ -1,4 +1,4 @@
-Weather Monitoring System
+Weather Monitoring System :
 A Weather Monitoring System that displays real-time weather data for various cities. The system includes daily weather summaries, visualizes historical trends, and allows users to configure temperature, humidity, wind speed and weather condition thresholds to trigger alerts.
 
 Features
