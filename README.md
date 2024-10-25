@@ -67,9 +67,8 @@ Ensure you have installed:
    ```
 
 2. **Backend Configuration**  
-   - Navigate to `backend` and install dependencies:
+   - Navigate to `root directory` and install dependencies:
      ```bash
-     cd backend
      npm install
      ```
    - Configure environment variables by creating a `.env` file in the `backend` directory:
